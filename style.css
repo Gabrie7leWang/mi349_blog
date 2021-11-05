@@ -1,5 +1,5 @@
  html {
-    background: #e3e3e3;
+    background: #c3e5e7;
 }
 
 body {
@@ -14,6 +14,19 @@ body {
 .sticky, .position-demo {
     color: aquamarine;
     padding: 20px;
+}
+
+.sticky {
+    background-color: chartreuse;
+    position: -webkit-sticky;
+    position: sticky;
+}
+ 
+.position-demo{
+    background-color: blue;
+    position: fixed;
+    top: 20px;
+    left: 20px;
 }
 
 h1 {
