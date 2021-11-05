@@ -17,13 +17,13 @@ body {
 }
 
 .sticky {
-    background-color: rgb(92, 152, 167);
+    background-color: rgb(163, 211, 223);
     position: -webkit-sticky;
     position: sticky;
 }
  
 .position-demo{
-    background-color: rgb(106, 106, 173);
+    background-color: rgb(199, 77, 138);
     position: fixed;
     top: 20px;
     left: 20px;
@@ -36,14 +36,14 @@ body {
     margin-left: 10px;
 }
  body{
-     color: #f7f7f7;
+     color: #dca5e4;
  }
 
  header{
   background-color: rgb(136, 100, 138);
  }
  section {
-     background-color: rgb(69, 93, 94);
+     background-color: #ccc;
      display: flex;
  }
   footer {
