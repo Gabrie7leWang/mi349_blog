@@ -36,14 +36,14 @@ body {
     margin-left: 10px;
 }
  body{
-     color:#ccc;
+     color:rgb(52, 72, 83)(148, 147, 147);
  }
 
  header{
   background-color: rgb(136, 100, 138);
  }
  section {
-     background-color: whitesmoke;
+     background-color: #ccc;
      display: flex;
  }
   footer {
@@ -54,7 +54,16 @@ h1 {
     margin: 0;
     color: aqua;
 }
-
+h2{
+    font-size: 3em;
+    margin: 0pt;
+}
+ul{
+    font: 1em
+}
+h3{
+    font-weight: 100;
+}
 p {
     line-height: 1.4em;
 }
