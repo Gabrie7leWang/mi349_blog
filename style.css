@@ -23,7 +23,7 @@ body {
 }
  
 .position-demo{
-    background-color: blue;
+    background-color: rgb(106, 106, 173);
     position: fixed;
     top: 20px;
     left: 20px;
@@ -40,10 +40,10 @@ body {
  }
 
  header{
-  background-color: rgb(192, 144, 194);
+  background-color: rgb(136, 100, 138);
  }
  section {
-     background-color: #ccc;
+     background-color: rgb(69, 93, 94);
      display: flex;
  }
   footer {
