@@ -11,6 +11,11 @@ body {
  background: #fff;
 }
 
+.sticky, .position-demo {
+    color: aquamarine;
+    padding: 20px;
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
