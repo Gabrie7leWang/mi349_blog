@@ -1,4 +1,4 @@
- html {
+html {
     background: #c3e5e7;
 }
 
@@ -10,7 +10,6 @@ body {
  border-top: 10px solid #242424;
  background: #fff;
 }
-
 .sticky, .position-demo {
     color: aquamarine;
     padding: 20px;
@@ -35,13 +34,9 @@ body {
     float: right;
     margin-left: 10px;
 }
- body{
-     color:rgb(52, 72, 83)(148, 147, 147);
- }
+ body{color:rgb(52, 72, 83)}
 
- header{
-  background-color: rgb(136, 100, 138);
- }
+ header {background-color: rgb(136, 100, 138);}
  section {
      background-color: #ccc;
      display: flex;
