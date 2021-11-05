@@ -35,6 +35,20 @@ body {
     float: right;
     margin-left: 10px;
 }
+ body{
+     color: #f7f7f7;
+ }
+
+ header{
+  background-color: rgb(192, 144, 194);
+ }
+ section {
+     background-color: #ccc;
+     display: flex;
+ }
+  footer {
+      background: rgb(150, 128, 151);
+  }
 h1 {
     font-size: 3em;
     margin: 0;
