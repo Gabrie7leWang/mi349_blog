@@ -28,7 +28,13 @@ body {
     top: 20px;
     left: 20px;
 }
-
+.img-container{
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-left: 10px;
+}
 h1 {
     font-size: 3em;
     margin: 0;
